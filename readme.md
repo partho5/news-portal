@@ -1,4 +1,4 @@
-A fully fledged online newspaper. Developed in php (Laravel).
+A fully fledged online news portal. Developed in php (Laravel).
 <ul> 
   <li>Admin can add, edit, delete news article</li> 
   <li>News are shown in different categories</li> 
